@@ -1,0 +1,1 @@
+[{"Weekly_Average_Spending":"0.0","Weekly_Average_Visits":"1","Life_Time_Value":"0.0","customer_id":"96f55c7d8f42"}]

@@ -1,0 +1,8 @@
+2017-07-04 20:03:38.091:  Start processing site_visit_order
+2017-07-04 20:03:38.091:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 20:03:38.091:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 20:03:38.091:  successful processed 
+2017-07-04 20:03:38.091:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(1) 
+2017-07-04 20:03:38.091: 96f55c7d8f42, 6416.799999999999, null, null, null
+2017-07-04 20:03:38.091:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(2) 
+2017-07-04 20:03:38.091: 96f55c7d8f42, 6416.799999999999, null, null, null

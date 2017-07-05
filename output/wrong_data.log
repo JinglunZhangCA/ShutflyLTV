@@ -1,0 +1,11 @@
+2017-07-04 20:51:54.677:  Start processing wrong_data
+2017-07-04 20:51:54.677:  ERROR 12, WRONG_TYPE - {"verb":"NEW","adr_state":"AK","TYpe":"CUSTOMER","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","key":"96f55c7d8f42"}
+2017-07-04 20:51:54.677:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8f42"}
+2017-07-04 20:51:54.677:  ERROR 7, WRONG_VERB - {"tags":"[{\"some key\":\"some value\"}]","verb":"NEWNEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 20:51:54.677:  ERROR 6, WRONG_KEY - {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8f42","camera_model":"EOS 80D"}
+2017-07-04 20:51:54.677:  ERROR 1, WRONG_CUSTOMERID - {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","key":"68d84e5d1a43"}
+2017-07-04 20:51:54.677:  successful processed 
+2017-07-04 20:51:54.677:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(1) 
+2017-07-04 20:51:54.677: 96f55c7d8f42, 0.0, Smith, Middletown, AK
+2017-07-04 20:51:54.677:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(2) 
+2017-07-04 20:51:54.677: 96f55c7d8f42, 0.0, Smith, Middletown, AK

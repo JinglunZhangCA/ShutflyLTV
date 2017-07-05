@@ -1,0 +1,41 @@
+2017-07-04 22:23:56.686:  Start processing events_many
+2017-07-04 22:23:56.686:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-16T12:46:46.384Z","type":"CUSTOMER","key":"96f55ddd8f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-16T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-16T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-16T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  ERROR 9, ALREADY_EXIST - {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  ERROR 9, ALREADY_EXIST - {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-02-26T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8fdd"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-02-26T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8fdd","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-02-26T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8fdd","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-02-26T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8fdd","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  successful processed  {"verb":"UPDATE","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-31T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-31T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-31T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-31T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f5fc7d8f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f5fc7d8f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"96f5fc7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"96f5fc7d8f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"99955c7d8f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"99955c7d8f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"99955c7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"99955c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f556668f42"}
+2017-07-04 22:23:56.686:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f556668f42","key":"ac05e815502f"}
+2017-07-04 22:23:56.686:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"96f556668f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 22:23:56.686:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"96f556668f42","key":"68d84e5d1a43"}
+2017-07-04 22:23:56.686:  successful processed 
+2017-07-04 22:23:56.686:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(2) 
+2017-07-04 22:23:56.686: 96f55c7d8f42, 2406.2999999999997, Smith, Middletown, AK
+2017-07-04 22:23:56.686: 96f556668f42, 802.0999999999999, Smith, Middletown, AK
+2017-07-04 22:23:56.686:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(7) 
+2017-07-04 22:23:56.686: 96f55c7d8f42, 2406.2999999999997, Smith, Middletown, AK
+2017-07-04 22:23:56.686: 96f556668f42, 802.0999999999999, Smith, Middletown, AK
+2017-07-04 22:23:56.686: 96f55ddd8f42, 0.0, Smith, Middletown, AK

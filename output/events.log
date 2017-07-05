@@ -1,0 +1,10 @@
+2017-07-04 18:23:15.748:  Start processing events
+2017-07-04 18:23:15.748:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8f42"}
+2017-07-04 18:23:15.748:  successful processed  {"tags":"[{\"some key\":\"some value\"}]","verb":"NEW","event_time":"2017-01-06T12:45:52.041Z","type":"SITE_VISIT","customer_id":"96f55c7d8f42","key":"ac05e815502f"}
+2017-07-04 18:23:15.748:  successful processed  {"camera_make":"Canon","verb":"UPLOAD","event_time":"2017-01-06T12:47:12.344Z","type":"IMAGE","customer_id":"96f55c7d8f42","key":"d8ede43b1d9f","camera_model":"EOS 80D"}
+2017-07-04 18:23:15.748:  successful processed  {"total_amount":"12.34 USD","verb":"NEW","event_time":"2017-01-06T12:55:55.555Z","type":"ORDER","customer_id":"96f55c7d8f42","key":"68d84e5d1a43"}
+2017-07-04 18:23:15.748:  successful processed 
+2017-07-04 18:23:15.748:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(1) 
+2017-07-04 18:23:15.748: 96f55c7d8f42, 6416.799999999999, Smith, Middletown, AK
+2017-07-04 18:23:15.748:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(2) 
+2017-07-04 18:23:15.748: 96f55c7d8f42, 6416.799999999999, Smith, Middletown, AK

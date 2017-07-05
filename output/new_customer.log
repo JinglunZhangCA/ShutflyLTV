@@ -1,0 +1,7 @@
+2017-07-04 20:05:26.416:  Start processing new_customer
+2017-07-04 20:05:26.416:  successful processed  {"verb":"NEW","adr_state":"AK","adr_city":"Middletown","last_name":"Smith","event_time":"2017-01-06T12:46:46.384Z","type":"CUSTOMER","key":"96f55c7d8f42"}
+2017-07-04 20:05:26.416:  successful processed 
+2017-07-04 20:05:26.416:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(1) 
+2017-07-04 20:05:26.416: 96f55c7d8f42, 0.0, Smith, Middletown, AK
+2017-07-04 20:05:26.416:  successful processed  ShutflyLTV.topXSimpleLTVCustomers(2) 
+2017-07-04 20:05:26.416: 96f55c7d8f42, 0.0, Smith, Middletown, AK
